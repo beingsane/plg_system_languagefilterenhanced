@@ -39,3 +39,10 @@ is not the current language, but the default language instead.
 
 Second - and this is kind of hackish - this plugin unsets the `language` cookie that is set by the Joomla language system.
 This cookie will be set to the current language, which again will force all `*` items to be in that language as well.
+
+---
+## Want to learn how to program Joomla plugins?
+We have released an excellent guide for developing Joomla plugins: **Programming Joomla Plugins** written by Jisse Reitsma, a must-have for any serious Joomla developer.
+
+https://www.yireo.com/books/programming-joomla-plugins-book
+
